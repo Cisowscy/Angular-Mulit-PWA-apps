@@ -1,4 +1,14 @@
-# GenCis
+# UŻYTKOWANIE 
+## Google Chrome
+  wejdź do [chrome://flags](chrome://flags) i włącz następujące 4 opcje:
+  - `#enable-app-banners`     
+  - `#enable-experimental-app-banners`
+  - `#enable-desktop-pwas`
+  - `#enable-pwa-full-code-cache`
+
+
+------------------------------ 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0-beta.3.
 

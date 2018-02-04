@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json.schemastore.org/web-manifest",
+  "short_name": "trzon",
+  "name": "Gen-Cis-Trzon",
+  "description": "description",
+  "icons": [
+    {
+      "src": "48.png",
+      "sizes": "48x48",
+      "type": "assets/icons/"
+    },
+    {
+      "src": "64.png",
+      "sizes": "64x64",
+      "type": "assets/icons/"
+    },
+    {
+      "src": "128.png",
+      "sizes": "128x128",
+      "type": "assets/icons/"
+    },
+    {
+      "src": "256.png",
+      "sizes": "256x256",
+      "type": "assets/icons/"
+    },
+    {
+      "src": "512.png",
+      "sizes": "512x512",
+      "type": "assets/icons/"
+    },
+    {
+      "src": "1024.png",
+      "sizes": "1024x1024",
+      "type": "assets/icons/"
+    },
+    {
+      "src": "2048.png",
+      "sizes": "2048x2048",
+      "type": "assets/icons/"
+    }
+  ],
+  "start_url": "index.html?launcher=true",
+  "display": "standalone"
+}

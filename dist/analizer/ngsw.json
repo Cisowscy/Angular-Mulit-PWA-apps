@@ -1,0 +1,53 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.ab41d25532834b32d8d8.bundle.js",
+        "/main.e0f3694194a15f0007ef.bundle.js",
+        "/polyfills.bf95165a1d5098766b92.bundle.js",
+        "/styles.b623235d494b51269925.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/desktop.ini",
+        "/assets/icons/1024.png",
+        "/assets/icons/128.png",
+        "/assets/icons/2048.png",
+        "/assets/icons/256.png",
+        "/assets/icons/48.png",
+        "/assets/icons/512.png",
+        "/assets/icons/64.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.ab41d25532834b32d8d8.bundle.js": "af80aa415b11c8af2af803e5ab65ca639ca1bc30",
+    "/assets/desktop.ini": "64ae70ad8aa364ec899657d8694324880d6fb3ca",
+    "/main.e0f3694194a15f0007ef.bundle.js": "4b2e142cb470997555fd7b4090fa54ce3bb5455b",
+    "/assets/icons/1024.png": "e5153a2ee186251cf6f635d0451717cbd1832177",
+    "/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/assets/icons/128.png": "f142f4abad15ab48bf6c3ce6862da2046e808f58",
+    "/styles.b623235d494b51269925.bundle.css": "ff73074e00b93a020c19f2bad2044155ffd03269",
+    "/assets/icons/2048.png": "76890fc834c1812165ba02b407bbb50313ba5b54",
+    "/favicon.ico": "8ecdd91ad98beb403ac16e1e688cc6ebaf6a4eb4",
+    "/assets/icons/256.png": "1b9275fa44045a4307c4eafc08e63be95f3b6ee7",
+    "/index.html": "42f4e433531a948c4e393a4b6acf35ae8d84668f",
+    "/assets/icons/48.png": "29c49b5d609bbe05aec6fce2aa8c4b23a5fb72e5",
+    "/assets/icons/512.png": "51a40b1ceac9aafa699702c3e3819b9322bcaf35",
+    "/assets/icons/64.png": "59244608f4ef32f92aa9cc546e5848d35e81a1d9"
+  }
+}
